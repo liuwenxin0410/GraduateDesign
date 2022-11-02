@@ -1,0 +1,14 @@
+car
+1.gpio:in1`4:	PA4	PA5	PA6	PA7
+2.TIM4_PWM:	通道1：PB6		通道2：PB7
+
+LED：	PC13
+
+
+UART
+
+usart1_RX	PA9	
+usart1_TX	PA10
+	        
+灰度：PA1	PA2	PA3
+
